@@ -1,6 +1,12 @@
+<head>
 <style>
 a{
 float: left;
 }
+</style>
+</head>
+
+<body>
 <a>ree</a>
 <h1>hi</h1
+</body>
