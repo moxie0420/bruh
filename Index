@@ -1,14 +1,7 @@
 <html>
 <head>
-<style>
-a{
-float: left;
-}
-</style>
-</head>
-
 <body>
-<a>ree</a>
-<h1>hi</h1>
+<a href="https://google.com">ree</a>
+<a href="e.html"> bruh</a>
 </body>
 </html>
